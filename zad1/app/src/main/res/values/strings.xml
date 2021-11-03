@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">zad1_Android</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_activity">Activity jest jednym z komponentów aplikacji Android</string>
+    <string name="q_version">Android 8 jest najnowszą wersją systemu Android</string>
+    <string name="q_listener">Aplikacje dla systemu Android są sterowane zdarzeniowo</string>
+    <string name="q_resources">Zasoby aplikacji dla systemu Android definiuje się w plikach .xml</string>
+    <string name="q_find_resources">Do zasobów aplikacji dla systemów Android odnosimy się po nazwach</string>
+
+    <string name="correct_answer">Udzieliłeś poprawnej odpowiedzi :)</string>
+    <string name="incorrect_answer">Niestety, Twoja odpowiedź nie jest poprawna :(</string>
+</resources>
